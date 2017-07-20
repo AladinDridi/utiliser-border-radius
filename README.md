@@ -7,5 +7,6 @@ pour tester le code css utilisez la avec ce code html ,
 /// rq : il y'a des autres seront ajouté dans le plus délai possible mercii....
 
 
+
 exemple 2 sur cette channel à youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QOANO3CJiWM" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/QOANO3CJiWM
